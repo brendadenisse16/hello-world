@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi Humans!
+
+I'm from Guayaquil, Ecuador. I love cats and dogs :)
